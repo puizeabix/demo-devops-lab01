@@ -12,3 +12,5 @@ jobs:
     steps:
       - name: Start job
         run: echo 'Hello DevOPs'
+      - name: Second step
+        run: echo 'Second step'
